@@ -1,3 +1,3 @@
-APIKEY = "AIzaSyCCK6hPzvUI1_XbDCV4pC1HN_6bneUejYc"    # API key
+APIKEY = "AAAAAA"    # API key
 CONSIDERIP = True
 SCANFILE = "scan.json"    # location of input file
